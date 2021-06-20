@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Visual Analytics Project by G6",
+    "description": "Welcome to our new blog, Visual Analytics Project by G6. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Luo haoyu, Huangshan",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-20",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-20T18:07:46+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
