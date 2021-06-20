@@ -63,12 +63,14 @@ Show the all-day movement status (blank means stop and colored line means moving
 
 ## Timeline
 
-![](R1.png)
-
 A generalized development timeframe for this project is shown below.
+
+
+![](R1.png)
 
 ## Prototypes
 
+The prototypes for this project is shown below.
 ![](R2.png)
 
 
