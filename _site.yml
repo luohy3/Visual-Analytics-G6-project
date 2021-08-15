@@ -4,6 +4,15 @@ description: |
   This blog is for Visual Analytics project by Luo haoyu and Huangshan in Group 6.
 output_dir: "_site"
 navbar:
+  left:
+    - text: "Proposal"
+      href: visual-analytics-project.html
+    - text: "Research paper"
+      href: visual-analytics-project.html
+    - text: "Poster"
+      href: visual-analytics-project.html
+    - text: "Shiny"
+      href: visual-analytics-project.html
   right:
     - text: "Home"
       href: index.html
