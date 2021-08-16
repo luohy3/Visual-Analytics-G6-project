@@ -2,7 +2,6 @@ name: "Visual Analytics Project G6"
 title: "Visual Analytics Project G6"
 description: |
   This blog is for Visual Analytics project by Luo haoyu and Huangshan in Group 6.
-output_dir: "_site"
 navbar:
   right:
     - text: "Introduction"
