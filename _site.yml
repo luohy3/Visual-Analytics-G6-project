@@ -3,17 +3,17 @@ title: "Visual Analytics Project G6"
 navbar:
   right:
     - text: "Introduction"
-      href: posts/2021-08-16-visual-analytics-project/visual-analytics-project.html
+      href: visual-analytics-project.html
     - text: "Research Paper and poster"
       menu:
         - text: "Articles"
-          href: posts/2021-08-16-userguide/userguide.html
+          href: userguide.html
         - text: "Poster"
-          href: posts/2021-08-16-poster/poster.html      
+          href: poster.html      
     - text: "Userguide"
-      href: posts/2021-08-16-userguide/userguide.html
+      href: userguide.html
     - text: "shiny"
-      href: posts/2021-08-16-shiny/shiny.html
+      href: shiny.html
     - icon: fab fa-github
       href: https://visual-g6.netlify.app/
 output: distill::distill_article
