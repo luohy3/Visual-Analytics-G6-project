@@ -1,7 +1,5 @@
 name: "Visual Analytics Project G6"
 title: "Visual Analytics Project G6"
-description: |
-  This blog is for Visual Analytics project by Luo haoyu and Huangshan in Group 6.
 navbar:
   right:
     - text: "Introduction"
@@ -18,5 +16,4 @@ navbar:
       href: shiny.html
     - icon: fab fa-github
       href: https://github.com/rstudio/distill
-    source_url: True
 output: distill::distill_article
