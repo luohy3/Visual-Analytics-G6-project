@@ -10,13 +10,13 @@ navbar:
     - text: "Research Paper and poster"
       menu:
         - text: "Articles"
-          href: publish_article.html
+          href: userguide.html
         - text: "Poster"
-          href: publish_website.html      
+          href: poster.html      
     - text: "Userguide"
-      href: tables.html
+      href: userguide.html
     - text: "shiny"
-      href: citations.html
+      href: shiny.html
     - icon: fab fa-github
       href: https://github.com/rstudio/distill
 output: distill::distill_article

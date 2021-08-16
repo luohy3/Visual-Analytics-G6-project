@@ -1,0 +1,21 @@
+---
+title: "Poster"
+description: |
+  Poster
+author:
+  - name: Luo haoyu, Huangshan
+    url: {}
+date: 08-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](poster.png)
+
+

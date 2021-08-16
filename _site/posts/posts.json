@@ -1,5 +1,56 @@
 [
   {
+    "path": "posts/2021-08-16-shiny/",
+    "title": "shiny",
+    "description": "Please view the shiny at <https://group6project.shinyapps.io/Project/>.",
+    "author": [
+      {
+        "name": "Luo haoyu, Huangshan",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-16T22:48:04+08:00",
+    "input_file": "shiny.knit.md"
+  },
+  {
+    "path": "posts/2021-08-16-poster/",
+    "title": "Poster",
+    "description": "Poster",
+    "author": [
+      {
+        "name": "Luo haoyu, Huangshan",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-16T22:57:07+08:00",
+    "input_file": "poster.knit.md"
+  },
+  {
+    "path": "posts/2021-08-16-userguide/",
+    "title": "userguide",
+    "description": "A short description of the userguide.",
+    "author": [
+      {
+        "name": "Luo haoyu, Huangshan",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-16",
+    "categories": [],
+    "contents": "\r\n1.You can click on the graph in transaction analysis panel to get the detailed activity of each place by hour and by day.\r\n2.You can click on the graph in cluster analysis to get the specific cluster and ID of each node.\r\n3.You can click on the dashboard button on the top to get a panel to modify id and day, which can select day and id for result on graph in the gps analysis panel.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-16T23:04:19+08:00",
+    "input_file": "userguide.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Visual Analytics Project by G6",
     "description": "Welcome to our new blog, Visual Analytics Project by G6. We hope you enjoy \nreading what we have to say!",

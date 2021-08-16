@@ -1,0 +1,24 @@
+---
+title: "userguide"
+description: |
+  A short description of the userguide.
+author:
+  - name: Luo haoyu, Huangshan
+    url: {}
+date: 08-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1.You can click on the graph in transaction analysis panel to get the detailed activity of each place by hour and by day.
+
+2.You can click on the graph in cluster analysis to get the specific cluster and ID of each node.
+
+3.You can click on the dashboard button on the top to get a panel to modify id and day, which can select day and id for result on graph in the gps analysis panel.
+
