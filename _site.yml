@@ -15,5 +15,5 @@ navbar:
     - text: "shiny"
       href: shiny.html
     - icon: fab fa-github
-      href: https://github.com/rstudio/distill
+      href: https://visual-g6.netlify.app/
 output: distill::distill_article

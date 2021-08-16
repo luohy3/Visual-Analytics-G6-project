@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-08-16T22:57:07+08:00",
+    "last_modified": "2021-08-16T23:26:30+08:00",
     "input_file": "poster.knit.md"
   },
   {
@@ -47,7 +47,7 @@
     "categories": [],
     "contents": "\r\n1.You can click on the graph in transaction analysis panel to get the detailed activity of each place by hour and by day.\r\n2.You can click on the graph in cluster analysis to get the specific cluster and ID of each node.\r\n3.You can click on the dashboard button on the top to get a panel to modify id and day, which can select day and id for result on graph in the gps analysis panel.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-08-16T23:04:19+08:00",
+    "last_modified": "2021-08-16T23:26:44+08:00",
     "input_file": "userguide.knit.md"
   },
   {
@@ -81,7 +81,7 @@
     "categories": [],
     "contents": "\r\nMotivation\r\nIn challenge 2 we have two weeks vehicle tracking data of the employees and their credit card and loyalty card transactions data. These datasets combine geospatial data with aspatial information and time information which allow us to use geospatial analysis and time-series analysis.\r\nOur analysis will link these data through both geospatial and time analysis. We will try to identify suspicious patterns of behavior, involved locations and people.\r\nObjectives\r\nThe project aims to deliver an R-Shiny app that provides:\r\nInteractive user interface design.\r\nVehicle tracking information and all locations interfaced with a visual map representation.\r\nA visual timeline representation for each car with corresponding classified location types by different color.\r\nA visual timeline representation for cars with their activity and stop information.\r\nProposed Scope and Methodology\r\nAnalysis of dataset with background search and assumption making.\r\nOverview spatial map:\r\nAn overview map combined with tracking data colored by car's ID will be used to detect low frequency state occurred.\r\nCluster analysis:\r\nAmong the grouped employee with similar consumption feature to find the unusual activities compared with others.\r\nGannet chart:\r\nShow the all-day movement status (blank means stop and colored line means moving) for each car, to compare the movement pattern to find the possible suspicious activity.\r\nCalendar chart:\r\nPresent daily time distribution of each employee and color chart in terms of different activity categories to see abnormal activities.\r\nSpatial-temporal analysis\r\nAim to realize the analysis across both space and time at the same time. Support viewers created automatic proximity detection with a user definable space and a time window.\r\nEdit proposal and process by R Markdowns.\r\nUtilize R-shiny app to achieve user interactivities.\r\nTimeline\r\nA generalized development timeframe for this project is shown below.\r\n\r\nPrototypes\r\nThe prototypes for this project is shown below. \r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-08-15T23:21:22+08:00",
+    "last_modified": "2021-08-16T23:26:00+08:00",
     "input_file": "visual-analytics-project.knit.md"
   }
 ]
