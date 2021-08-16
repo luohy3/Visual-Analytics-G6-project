@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2021-08-16-poster/",
-    "title": "Poster",
-    "description": "Poster",
-    "author": [
-      {
-        "name": "Luo haoyu, Huangshan",
-        "url": {}
-      }
-    ],
-    "date": "2021-08-16",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-08-16T23:26:30+08:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2021-08-16-shiny/",
     "title": "shiny",
     "description": "Please view the shiny at <https://group6project.shinyapps.io/Project/>.",
@@ -49,6 +32,23 @@
     "preview": {},
     "last_modified": "2021-08-16T23:26:44+08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-08-16-poster/",
+    "title": "Poster",
+    "description": "Poster",
+    "author": [
+      {
+        "name": "Luo haoyu, Huangshan",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-16T23:34:12+08:00",
+    "input_file": "poster.knit.md"
   },
   {
     "path": "posts/2021-06-20-visual-analytics-project/",
