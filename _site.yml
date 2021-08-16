@@ -5,8 +5,18 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Introduction"
+      href: visual-analytics-project.html
+    - text: "Research Paper and poster"
+      menu:
+        - text: "Articles"
+          href: publish_article.html
+        - text: "Poster"
+          href: publish_website.html      
+    - text: "Userguide"
+      href: tables.html
+    - text: "shiny"
+      href: citations.html
+    - icon: fab fa-github
+      href: https://github.com/rstudio/distill
 output: distill::distill_article
