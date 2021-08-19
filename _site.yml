@@ -7,7 +7,7 @@ navbar:
     - text: "Research Paper and poster"
       menu:
         - text: "Articles"
-          href: userguide.html
+          href: research-paper.html
         - text: "Poster"
           href: poster.html      
     - text: "Userguide"
