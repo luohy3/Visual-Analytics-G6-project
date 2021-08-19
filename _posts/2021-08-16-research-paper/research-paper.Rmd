@@ -13,7 +13,8 @@ abstract: |
   It consists of two paragraphs.
 bibliography: sigproc.bib
 csl: acm-sig-proceedings.csl
-output: rticles::acm_article
+output: distill::distill_article
+#rticles::acm_article
 ---
 
 
