@@ -17,7 +17,6 @@ output: distill::distill_article
 #rticles::acm_article
 ---
 
-
 # 1.Introduction
 
 Nowadays, data as an important record medium, has been employed in various fields and industries, which is helpful to explore valuable understanding. For example, supermarket could identify different customers segment by analyzing transactions records. The government could get the traffic situation which disclosed by GPS data. Apart from it, with huge data source, combined different data has been more and more popular in data analysis. Like police station, usually analyse vast huge data to track the suspicious behaviours and clue.

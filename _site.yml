@@ -4,12 +4,8 @@ navbar:
   right:
     - text: "Introduction"
       href: visual-analytics-project.html
-    - text: "Research Paper and poster"
-      menu:
-        - text: "Articles"
-          href: research-paper.html
-        - text: "Poster"
-          href: poster.html      
+    - text: "Poster"
+      href: poster.html      
     - text: "Userguide"
       href: userguide.html
     - text: "shiny"
